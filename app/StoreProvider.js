@@ -12,3 +12,5 @@ export default function StoreProvider({ children }) {
 
   return <Provider store={storeRef.current}>{children}</Provider>
 }
+
+//adding a comment to test the commit
