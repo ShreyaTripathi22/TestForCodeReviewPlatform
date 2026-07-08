@@ -16,3 +16,6 @@ export default function StoreProvider({ children }) {
 //adding a comment to test the commit another try
 
 //adding a comment to test the commit another try part 2
+
+//adding a comment to test the commit another try part 3
+//hdchfcjfj
